@@ -15,13 +15,17 @@
 	<folder-name/>
 	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2023-07-31T14:39:17.746Z</lastModifiedDate>
-	<lastModifiedDate_dt>2023-07-31T14:39:17.746Z</lastModifiedDate_dt>
+	<lastModifiedDate>2023-07-31T14:41:11.058Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-31T14:41:11.058Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
 	<items_o item-list="true">	<item>	<key>/site/components/videos/7fb5298b-bb22-4705-4740-69afa923f6b5.xml</key>
 	<value>Video-1</value>
 	<include>/site/components/videos/7fb5298b-bb22-4705-4740-69afa923f6b5.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item>	<item>	<key>/site/components/ac818f6c-d7db-28f3-770d-1328ff44c3b9.xml</key>
+	<value>Text</value>
+	<include>/site/components/ac818f6c-d7db-28f3-770d-1328ff44c3b9.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></items_o>
 </page>
