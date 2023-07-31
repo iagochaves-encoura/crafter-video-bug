@@ -5,7 +5,7 @@ import { RenderContents } from './components/RenderContents';
 
 function App() {
   const { item, isLoading, error } = useCrafterContentInstance(
-    '/site/website/index.xml'
+    '/site/website/index.xml',
   );
 
   console.log('item', item);
