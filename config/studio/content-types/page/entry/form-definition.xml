@@ -382,7 +382,7 @@
 						</property>
 						<property>
 							<name>contentTypes</name>
-							<value>/component/video</value>
+							<value>/component/video,/component/textblock</value>
 								<type>contentTypes</type>
 						</property>
 						<property>
