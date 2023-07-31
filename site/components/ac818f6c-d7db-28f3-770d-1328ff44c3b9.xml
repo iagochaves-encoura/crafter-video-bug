@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component>
+	<content-type>/component/textblock</content-type>
+	<display-template/>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ac81</objectGroupId>
+	<objectId>ac818f6c-d7db-28f3-770d-1328ff44c3b9</objectId>
+	<file-name>ac818f6c-d7db-28f3-770d-1328ff44c3b9.xml</file-name>
+	<folder-name/>
+	<internal-name>Text</internal-name>
+	<text_html>&lt;p&gt;Text example&lt;/p&gt;</text_html>
+	<createdDate>2023-07-31T14:40:16.653Z</createdDate>
+	<createdDate_dt>2023-07-31T14:40:16.653Z</createdDate_dt>
+	<lastModifiedDate>2023-07-31T14:40:16.653Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-31T14:40:16.653Z</lastModifiedDate_dt>
+</component>
