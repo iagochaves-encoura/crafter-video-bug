@@ -21,15 +21,15 @@
   <file-name>index.xml</file-name>
   <internal-name>Home</internal-name>
   <orderDefault_f>-1</orderDefault_f>
-  <body_html><![CDATA[<p><strong>Run Vite app, and enable proxy on port 3000</strong></p>
-<p>&nbsp;</p>]]></body_html>
+  <body_html><![CDATA[<p><strong>Run Vite app (/sources/video-showcase)</strong><strong>, and enable proxy on port 3000</strong></p>
+<p><br /></p>]]></body_html>
   <objectGroupId>8d7f</objectGroupId>
   <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
   <folder-name/>
   <createdDate>2017-01-31T16:18:14.000Z</createdDate>
   <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
   <lastModifiedDate>2021-06-03T11:29:49.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-31T14:16:21.781Z</lastModifiedDate_dt>
+  <lastModifiedDate_dt>2023-07-31T14:16:45.855Z</lastModifiedDate_dt>
   <title_t>Hello!</title_t>
   <disabled>false</disabled>
 </page>
