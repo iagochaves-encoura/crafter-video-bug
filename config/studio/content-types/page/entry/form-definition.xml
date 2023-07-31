@@ -372,12 +372,12 @@
 						</property>
 						<property>
 							<name>baseRepoPath</name>
-							<value>/site/components/videos</value>
+							<value>/site/components</value>
 								<type>string</type>
 						</property>
 						<property>
 							<name>baseBrowsePath</name>
-							<value>/site/components/videos</value>
+							<value>/site/components</value>
 								<type>string</type>
 						</property>
 						<property>
