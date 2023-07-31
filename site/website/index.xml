@@ -1,35 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2022 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  --><page>
-  <content-type>/page/entry</content-type>
-  <display-template>/templates/web/entry.ftl</display-template>
-  <merge-strategy>inherit-levels</merge-strategy>
-  <placeInNav>false</placeInNav>
-  <file-name>index.xml</file-name>
-  <internal-name>Home</internal-name>
-  <orderDefault_f>-1</orderDefault_f>
-  <body_html><![CDATA[<p><strong>Run Vite app (/sources/video-showcase)</strong><strong>, and enable proxy on port 3000</strong></p>
-<p><br /></p>]]></body_html>
-  <objectGroupId>8d7f</objectGroupId>
-  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-  <folder-name/>
-  <createdDate>2017-01-31T16:18:14.000Z</createdDate>
-  <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2021-06-03T11:29:49.000Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-31T14:16:45.855Z</lastModifiedDate_dt>
-  <title_t>Hello!</title_t>
-  <disabled>false</disabled>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;&lt;strong&gt;Run Vite app (/sources/video-showcase)&lt;/strong&gt;&lt;strong&gt;, and enable proxy on port 3000&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</body_html>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2023-07-31T14:39:17.746Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-07-31T14:39:17.746Z</lastModifiedDate_dt>
+	<title_t>Hello!</title_t>
+	<disabled>false</disabled>
+	<items_o item-list="true">	<item>	<key>/site/components/videos/7fb5298b-bb22-4705-4740-69afa923f6b5.xml</key>
+	<value>Video-1</value>
+	<include>/site/components/videos/7fb5298b-bb22-4705-4740-69afa923f6b5.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></items_o>
 </page>
