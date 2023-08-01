@@ -1,5 +1,4 @@
 #root {
-  max-width: 1200px;
   display: flex;
   flex: 1;
   flex-direction: column;
@@ -7,6 +6,10 @@
   justify-content: center;
   padding: 2rem;
   text-align: center;
+}
+
+.container {
+  max-width: 1200px;
 }
 
 .content {

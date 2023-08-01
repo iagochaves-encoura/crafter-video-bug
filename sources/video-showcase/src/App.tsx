@@ -19,9 +19,11 @@ function App() {
   }
 
   return (
-    <ExperienceBuilder isAuthoring model={item}>
-      <RenderContents model={item} />
-    </ExperienceBuilder>
+    <div className="container">
+      <ExperienceBuilder isAuthoring model={item}>
+        <RenderContents model={item} />
+      </ExperienceBuilder>
+    </div>
   );
 }
 
