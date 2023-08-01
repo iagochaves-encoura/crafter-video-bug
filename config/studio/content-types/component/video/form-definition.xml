@@ -87,18 +87,18 @@
 					</constraints>
 				</field>
 				<field>
-					<type>video-picker</type>
-					<id>video_s</id>
+					<type>transcoded-video-picker</type>
+					<id>video_o</id>
 					<iceId></iceId>
 					<title>Video</title>
-					<description></description>
+					<description>Supported Video Formats: MP4, AVI, MOV, WMV</description>
 					<defaultValue></defaultValue>
 					<help></help>
 					<properties>
 						<property>
 							<name>videoManager</name>
-							<value>videos</value>
-							<type>datasource:video</type>
+							<value>video</value>
+							<type>datasource:transcoded-video</type>
 						</property>
 						<property>
 							<name>readonly</name>
@@ -109,7 +109,7 @@
 					<constraints>
 						<constraint>
 							<name>required</name>
-							<value><![CDATA[true]]></value>
+							<value><![CDATA[]]></value>
 							<type>boolean</type>
 						</constraint>
 					</constraints>
@@ -118,20 +118,20 @@
 		</section>
 	</sections>
 	<datasources>				<datasource>
-					<type>video-browse-repo</type>
-					<id>videos</id>
-					<title>Videos</title>
-					<interface>video</interface>
+					<type>video-S3-transcoding</type>
+					<id>video</id>
+					<title>Video</title>
+					<interface>transcoded-video</interface>
 					<properties>
 						<property>
-							<name>repoPath</name>
-							<value>/static-assets/videos</value>
+							<name>inputProfileId</name>
+							<value>mediaconvert-default</value>
 								<type>string</type>
 						</property>
 						<property>
-							<name>useSearch</name>
-							<value>false</value>
-								<type>boolean</type>
+							<name>outputProfileId</name>
+							<value>s3-default</value>
+								<type>string</type>
 						</property>
 					</properties>
 				</datasource>
