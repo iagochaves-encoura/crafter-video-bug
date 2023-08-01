@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-  <content-type>/page/entry</content-type>
-  <display-template>/templates/web/entry.ftl</display-template>
-  <no-template-required/>
-  <merge-strategy>inherit-levels</merge-strategy>
-  <placeInNav>false</placeInNav>
-  <file-name>index.xml</file-name>
-  <internal-name>Home</internal-name>
-  <orderDefault_f>-1</orderDefault_f>
-  <body_html>&lt;p&gt;&lt;strong&gt;Run Vite app (/sources/video-showcase)&lt;/strong&gt;&lt;strong&gt;, and enable proxy on port 3000&lt;/strong&gt;&lt;/p&gt;
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<placeInNav>false</placeInNav>
+	<file-name>index.xml</file-name>
+	<internal-name>Home</internal-name>
+	<orderDefault_f>-1</orderDefault_f>
+	<body_html>&lt;p&gt;&lt;strong&gt;Run Vite app (/sources/video-showcase)&lt;/strong&gt;&lt;strong&gt;, and enable proxy on port 3000&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</body_html>
-  <objectGroupId>8d7f</objectGroupId>
-  <objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
-  <folder-name/>
-  <createdDate>2017-01-31T16:18:14.000Z</createdDate>
-  <createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
-  <lastModifiedDate>2023-07-31T14:41:11.058Z</lastModifiedDate>
-  <lastModifiedDate_dt>2023-07-31T15:22:34.456Z</lastModifiedDate_dt>
-  <title_t>Hello!</title_t>
-  <disabled>false</disabled>
-  <items_o item-list="true">
-    <item>
-      <key>/site/components/ac818f6c-d7db-28f3-770d-1328ff44c3b9.xml</key>
-      <value>Text</value>
-      <include>/site/components/ac818f6c-d7db-28f3-770d-1328ff44c3b9.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
-    <item>
-      <key>/site/components/videos/7fb5298b-bb22-4705-4740-69afa923f6b5.xml</key>
-      <value>Video-1</value>
-      <include>/site/components/videos/7fb5298b-bb22-4705-4740-69afa923f6b5.xml</include>
-      <disableFlattening>false</disableFlattening>
-    </item>
-  </items_o>
+	<objectGroupId>8d7f</objectGroupId>
+	<objectId>8d7f21fa-5e09-00aa-8340-853b7db302da</objectId>
+	<folder-name/>
+	<createdDate>2017-01-31T16:18:14.000Z</createdDate>
+	<createdDate_dt>2017-01-31T16:18:14.000Z</createdDate_dt>
+	<lastModifiedDate>2023-08-01T21:25:14.195Z</lastModifiedDate>
+	<lastModifiedDate_dt>2023-08-01T21:25:14.195Z</lastModifiedDate_dt>
+	<title_t>Hello!</title_t>
+	<disabled>false</disabled>
+	<items_o item-list="true">	<item>	<key>/site/components/ac818f6c-d7db-28f3-770d-1328ff44c3b9.xml</key>
+	<value>Text</value>
+	<include>/site/components/ac818f6c-d7db-28f3-770d-1328ff44c3b9.xml</include>
+	<disableFlattening>false</disableFlattening>
+	</item></items_o>
 </page>
